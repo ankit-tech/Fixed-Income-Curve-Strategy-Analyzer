@@ -1,0 +1,7 @@
+pandas
+plotly
+openpyxl
+streamlit-autorefresh
+streamlit
+Excel
+CQG/Bloomberg Market Data
