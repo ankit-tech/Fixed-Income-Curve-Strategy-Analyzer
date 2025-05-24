@@ -24,3 +24,4 @@ To deploy this app on [Streamlit Cloud](https://streamlit.io/cloud), connect thi
 ## Requirements
 
 See `requirements.txt` for dependencies.
+![image](https://github.com/user-attachments/assets/5796bff2-00e7-45c2-8118-fa5589e0cece)
